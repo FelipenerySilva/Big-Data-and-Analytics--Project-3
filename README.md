@@ -3,7 +3,7 @@ Multiple Linear Regression and Logistic Regression using the Boston housing data
 
 Repository containing Python data science project of my Big Data course from the University of Newcastle (Uon) Master of Data Science Degree. Presented in the form of Jupyter Notebooks.
 
-The project covers the material from Lectures 1-7 and includes:
+The project covered the material from Lectures 1-7 and includes:
 
 1: Dataset Import and Preparation<br>
 2: Regression<br>
